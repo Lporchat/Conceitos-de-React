@@ -64,7 +64,7 @@ interface Task {
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/to.do
+git clone https://github.com/Lporchat/Conceitos-de-React
 # ou use a opção de download.
 # Entre na pasta com
 cd to.do
