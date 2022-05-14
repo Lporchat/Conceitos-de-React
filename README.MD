@@ -67,7 +67,7 @@ interface Task {
 git clone https://github.com/Lporchat/Conceitos-de-React
 # ou use a opção de download.
 # Entre na pasta com
-cd Conceitos-de-React
+cd APP-TODO
 # Instale as dependências
 yarn install
 # Rode a aplicação
